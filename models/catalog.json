@@ -9,7 +9,7 @@
 		{
 			"client": "caso001",
 			"doctor_id": "luis",
-			"expires_at_unix": 1794365926,
+			"expires_at_unix": 1794365926.0,
 			"file": "caso00012-superior.stl",
 			"id": "caso00012-superior",
 			"name": "Arcada superior",
@@ -19,11 +19,31 @@
 		{
 			"client": "caso001",
 			"doctor_id": "luis",
-			"expires_at_unix": 1794365926,
+			"expires_at_unix": 1794365926.0,
 			"file": "caso00012-inferior.stl",
 			"id": "caso00012-inferior",
 			"name": "Arcada inferior",
 			"version": "1794365926",
+			"z_up": false
+		},
+		{
+			"client": "caso01",
+			"doctor_id": "luis",
+			"expires_at_unix": 1794367148,
+			"file": "caso01-superior.stl",
+			"id": "caso01-superior",
+			"name": "Arcada superior",
+			"version": "1794367148",
+			"z_up": false
+		},
+		{
+			"client": "caso01",
+			"doctor_id": "luis",
+			"expires_at_unix": 1794367148,
+			"file": "caso01-inferior.stl",
+			"id": "caso01-inferior",
+			"name": "Arcada inferior",
+			"version": "1794367148",
 			"z_up": false
 		}
 	]
