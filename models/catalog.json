@@ -7,27 +7,35 @@
 		{
 			"id": "señorlopez",
 			"name": "gabriel"
+		},
+		{
+			"id": "gato",
+			"name": "gato"
 		}
 	],
 	"models": [
 		{
+			"case_id": "caso01",
 			"client": "caso1Prueba",
-			"doctor_id": "señorlopez",
-			"expires_at_unix": 1794369028,
-			"file": "caso01-superior.stl",
-			"id": "caso01-superior",
-			"name": "Arcada superior",
-			"version": "1794369028",
+			"doctor_id": "gato",
+			"expires_at_unix": 1794897240,
+			"file": "caso01-superior-1.stl",
+			"id": "caso01-superior-1",
+			"layer": "upper_1",
+			"name": "Arcada superior 1",
+			"version": "1794897240",
 			"z_up": false
 		},
 		{
+			"case_id": "caso01",
 			"client": "caso1Prueba",
-			"doctor_id": "señorlopez",
-			"expires_at_unix": 1794369028,
-			"file": "caso01-inferior.stl",
-			"id": "caso01-inferior",
-			"name": "Arcada inferior",
-			"version": "1794369028",
+			"doctor_id": "gato",
+			"expires_at_unix": 1794897240,
+			"file": "caso01-inferior-1.stl",
+			"id": "caso01-inferior-1",
+			"layer": "lower_1",
+			"name": "Arcada inferior 1",
+			"version": "1794897240",
 			"z_up": false
 		}
 	]
