@@ -11,7 +11,25 @@
 		{
 			"id": "gato",
 			"name": "gato"
+		},
+		{
+			"id": "dr-richard",
+			"name": "dr richard"
 		}
 	],
-	"models": []
+	"models": [
+		{
+			"case_id": "dr-garciaa",
+			"client": "dr garciaa",
+			"doctor_id": "dr-richard",
+			"expires_at_unix": 1795229903,
+			"file": "dr-garciaa-superior-2.stl",
+			"id": "dr-garciaa-superior-2",
+			"layer": "upper_2",
+			"name": "Arcada superior 2",
+			"size_bytes": 2043284,
+			"version": "1795229903",
+			"z_up": false
+		}
+	]
 }
