@@ -15,6 +15,10 @@
 		{
 			"id": "dr-richard",
 			"name": "dr richard"
+		},
+		{
+			"id": "richard_",
+			"name": "Richard"
 		}
 	],
 	"models": [
@@ -22,13 +26,43 @@
 			"case_id": "dr-garciaa",
 			"client": "dr garciaa",
 			"doctor_id": "dr-richard",
-			"expires_at_unix": 1795233367,
+			"expires_at_unix": 1795233367.0,
 			"file": "dr-garciaa-adicional-2.stl",
 			"id": "dr-garciaa-adicional-2",
 			"layer": "additional_2",
 			"name": "Adicional 2 · restsup.stl",
-			"size_bytes": 2043284,
+			"size_bytes": 2043284.0,
 			"version": "1795233367",
+			"z_up": false
+		},
+		{
+			"case_id": "caso01",
+			"chunks": [
+				{
+					"file": "caso01-inferior-1.part001",
+					"repository": "Alojamiento_1",
+					"size_bytes": 20971520
+				},
+				{
+					"file": "caso01-inferior-1.part002",
+					"repository": "Alojamiento_1",
+					"size_bytes": 20971520
+				},
+				{
+					"file": "caso01-inferior-1.part003",
+					"repository": "Alojamiento_1",
+					"size_bytes": 3258944
+				}
+			],
+			"client": "caso1Prueba",
+			"doctor_id": "richard_",
+			"expires_at_unix": 1795879428,
+			"file": "",
+			"id": "caso01-inferior-1",
+			"layer": "lower_1",
+			"name": "Inferior 1 · r1.stl",
+			"size_bytes": 45201984,
+			"version": "1795879428",
 			"z_up": false
 		}
 	]
